@@ -1,0 +1,7 @@
+.idea
+.vscode
+goblog*
+conf/prod.yml
+logs/*
+main
+go.sum
